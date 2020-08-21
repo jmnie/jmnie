@@ -4,7 +4,7 @@
 
 I am Jiaming Nie. 
 
-A Software Engineer. A creator. A non-professional photographer. 
+A software engineer. A creator. A non-professional photographer. 
 
 I love running | hiking | reading. 
 
