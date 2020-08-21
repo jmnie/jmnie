@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jmnie&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jmnie&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />
 
 I am Jiaming Nie. 
 
