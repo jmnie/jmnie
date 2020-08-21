@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jmnie&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmnie)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmnie)
 
 I am Jiaming Nie. 
 
