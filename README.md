@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
 
-[![Jiaming Nie's github stats](https://github-readme-stats.vercel.app/api?username=jmnie&count_private=true)]
+I am Jiaming Nie. A Software Engineer. A creator. A non-professional photographer. 
+
+I love running | hiking | reading. 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jmnie&count_private=true&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" />
 
 <!--
 **jmnie/jmnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
