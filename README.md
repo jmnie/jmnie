@@ -12,6 +12,7 @@ WPI 2019, XJTLU & UoL 2017.
 
 Find me on: [GitHub](https://github.com/jmnie) | [LinkedIn](https://www.linkedin.com/in/jmnie/) | [Instagram](https://www.instagram.com/ammannecho/) | [Email](mailto:jiaming.nie13@gmail.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himself65&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jmnie/jmnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
