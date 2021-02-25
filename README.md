@@ -6,7 +6,7 @@ I am Jiaming Nie.
 
 A software engineer. A creator. A non-professional photographer. 
 
-I love running | hiking | reading. 
+I love running | swimming | hiking | reading. 
 
 WPI 2019, XJTLU & UoL 2017.
 
