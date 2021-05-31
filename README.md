@@ -10,7 +10,7 @@ I love running | swimming | hiking | reading. Some articles published on [Person
 
 WPI 2019, XJTLU & UoL 2017.
 
-Find me on: [GitHub](https://github.com/jmnie) | [LinkedIn](https://www.linkedin.com/in/jmnie/) | [Instagram](https://www.instagram.com/ammannecho/) | [Email](mailto:jiaming.nie13@gmail.com)
+Find me on: [LinkedIn](https://www.linkedin.com/in/jmnie/) | [Twitter](https://twitter.com/jeremyMinus) | [Instagram](https://www.instagram.com/ammannecho/) | [Email](mailto:jiaming.nie13@gmail.com)
 
 
 <!--
