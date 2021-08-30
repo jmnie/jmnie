@@ -8,8 +8,6 @@ A software engineer. A creator. An unprofessional photographer. A modern nomad.
 
 I love running | swimming | hiking | reading. Some articles published on [Personal Blog](https://jmnie.github.io/).
 
-WPI 2019, XJTLU & UoL 2017.
-
 Find me on: [LinkedIn](https://www.linkedin.com/in/jmnie/) | [Instagram](https://www.instagram.com/ammannecho/) | [Twitter](https://twitter.com/jeremyMinus) | [Facebook](https://www.facebook.com/jiaming.nie) | [Email](mailto:jiaming.nie13@gmail.com)
 
 
